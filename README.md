@@ -2,7 +2,7 @@
 ### -
 ### -
 ## - Meu nome é Saul.
-### - The name's Saul.
+### - My name is Saul.
 ## - Sou estudante.
 ### - I'm a student.
 ## - Sou novo na área da programação, mas com certeza tenho grandes metas na carreira!
